@@ -1,3 +1,4 @@
+![ChainPulse Alert Banner](cover.png)
 # 🐋 ChainPulse Alert - Telegram Web3 Whale Tracker Bot
 
 A high-performance Telegram bot built in Python to monitor crypto whale wallets and fetch real-time balance data on **Ethereum** and **Polygon** blockchains using the Alchemy API.
